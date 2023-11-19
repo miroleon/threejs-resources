@@ -1,5 +1,5 @@
 # Three.js Resource List
-## by Miro Leon Bucher
+_by Miro Leon Bucher_
 
 This is a list of resources I've used to learn and teach Three.js. Helpful suggestions came from our [Discord Server](https://discord.gg/pxv5fzmShE), which you are invited to join and contribute to this list that way. You can find more helpful Three.js tutorials and more on my [YouTube Channel](https://youtube.com/@miroxleon) if you are interested.
 
